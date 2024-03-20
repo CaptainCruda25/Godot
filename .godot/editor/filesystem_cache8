@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710955147
+Brown.png::CompressedTexture2D::8264491200215325551::1710952660::1710952660::1::::<><>::
+icon.svg::CompressedTexture2D::7502323493234582370::1710949877::1710949983::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::3144836369577318579::1710954302::1710954302::1::::<><>::
+main.tscn::PackedScene::4796168097763901737::1710955147::0::1::::<><>::uid://dp0m7y1o02dut::::res://Brown.png<>uid://84amu0wq4sq4::::res://Terrain (16x16).png<>uid://c5bii0yfbbalm::::res://scenes/main_character.tscn
+Terrain (16x16).png::CompressedTexture2D::2376121314558896109::1710952858::1710952858::1::::<><>::
+::res://scenes/::1710955147
+main_character.tscn::PackedScene::6881072426962217018::1710955147::0::1::::<><>::uid://bk2m833y0a4x8::::res://Jump (32x32).png
